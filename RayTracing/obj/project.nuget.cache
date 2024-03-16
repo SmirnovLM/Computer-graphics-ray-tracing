@@ -1,0 +1,32 @@
+{
+  "version": 2,
+  "dgSpecHash": "LGSb7W5pmtxUvAWIPAnrVBFnQ2mBxtsja+84oA5Bfe+XGzFjY9a0ZWho7lKRz3MT4lmKfvSXDoYGgt89RyrK/g==",
+  "success": true,
+  "projectFilePath": "D:\\Рабочий стол\\ННГУ_УЧЕБА\\Компьютерная Графика\\Лаб.Раб(3) - Трассировка Лучей\\RayTracing\\RayTracing\\RayTracing.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\smirn\\.nuget\\packages\\opentk\\3.0.0\\opentk.3.0.0.nupkg.sha512",
+    "C:\\Users\\smirn\\.nuget\\packages\\opentk.glcontrol\\3.0.0\\opentk.glcontrol.3.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Пакет \"OpenTK 3.0.0\" был восстановлен с помощью \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1\", а не целевой платформы проекта \"net5.0-windows7.0\". Этот пакет может быть не полностью совместим с вашим проектом.",
+      "libraryId": "OpenTK",
+      "targetGraphs": [
+        "net5.0-windows7.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Пакет \"OpenTK.GLControl 3.0.0\" был восстановлен с помощью \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1\", а не целевой платформы проекта \"net5.0-windows7.0\". Этот пакет может быть не полностью совместим с вашим проектом.",
+      "libraryId": "OpenTK.GLControl",
+      "targetGraphs": [
+        "net5.0-windows7.0"
+      ]
+    }
+  ]
+}
